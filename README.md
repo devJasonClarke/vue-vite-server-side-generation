@@ -1,4 +1,4 @@
-# Vue 3 + Vite + Vuex + Vue Router + Auto Imports boilerplate
+# Vue 3 + Vite + Static Site Generation
 
 This is a minimal boilerplate for Vue 3 and Vite. It comes with Vuex and Vue Router along with my favourite featues from Nuxt, auto imported components and auto generated routes. Just install and get to work. 🚀
 
