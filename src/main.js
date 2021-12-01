@@ -1,7 +1,7 @@
 // import { createApp } from "vue";
 import { ViteSSG } from "vite-ssg";
 import App from "./App.vue";
-import router from "@/router";
+// import router from "@/router";
 import store from "./store";
 
 import routes from "virtual:generated-pages";
